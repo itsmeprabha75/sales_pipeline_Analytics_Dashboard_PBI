@@ -1,8 +1,8 @@
-# **📈 Sales Pipeline Analytics Dashboard **
+#**📈 Sales Pipeline Analytics Dashboard**
 
 FP20 Analytics × ZoomCharts Mini Challenge
 
-# **📊 Overview **
+#**📊 Overview**
 
 This project was developed as part of the FP20 Analytics × ZoomCharts Mini Challenge, focusing on Global B2B Sales Pipeline Analytics.
 
@@ -12,7 +12,7 @@ Using Power BI and ZoomCharts Drill Down visuals, the report allows business lea
 
 The dashboard combines interactive exploration, clear storytelling, and business-focused insights to support data-driven decision making.
 
-# ** 🧰 Tools and Technologies **
+#**🧰 Tools and Technologies**
 
 Power BI Desktop
 
@@ -26,7 +26,7 @@ Python (EDA & initial data exploration)
 
 PowerPoint (Dashboard canvas background design)
 
-# ** 📂 Dataset **
+#**📂 Dataset**
 
 The dataset represents a global B2B sales pipeline for an enterprise SaaS and professional services company.
 
@@ -48,8 +48,8 @@ Product Categories (Cloud Migration, Integration Services, Analytics & BI, etc.)
 
 The dataset enables pipeline analysis, sales performance evaluation, and revenue segmentation insights.
 
-# ** 📄 Dashboard Structure **
-### ** Page 1 – Sales Pipeline Overview **
+#**📄 Dashboard Structure**
+###**Page 1 – Sales Pipeline Overview**
 Purpose
 
 Provide an executive-level overview of the sales pipeline health and distribution.
@@ -95,7 +95,7 @@ Industry
 
 Product Category
 
-### ** Page 2 – Sales Rep & Activity Performance **
+###**Page 2 – Sales Rep & Activity Performance**
 Purpose 
 
 Analyze sales team performance and customer engagement activities.
@@ -139,7 +139,7 @@ Sales Representative
 
 Activity Type
 
-### ** Page 3 – Sales Cycle & Revenue Segmentation **
+###**Page 3 – Sales Cycle & Revenue Segmentation**
 Purpose
 
 Provide deeper insights into revenue drivers and deal-level performance.
@@ -183,7 +183,7 @@ Industry
 
 Product Category
 
-## ** ⚙️ Key Features **
+##**⚙️ Key Features**
 
 Interactive ZoomCharts Drill Down visuals for multi-level exploration
 
@@ -197,7 +197,7 @@ Cross-filtering and drill-down exploration
 
 Business storytelling with interactive visuals
 
- ## **🚀 How to Use **
+ ##**🚀 How to Use**
 
 Download the .pbix file from this repository
 
@@ -207,7 +207,7 @@ Interact with the ZoomCharts visuals using drill-down and filters
 
 Explore sales pipeline trends, team performance, and revenue insights
 
-## ** 🏆 Challenge Details **
+##**🏆 Challenge Details**
 
 Organizer: FP20 Analytics
 
@@ -217,7 +217,7 @@ Challenge: FP20 Analytics × ZoomCharts Mini Challenge
 
 Theme: Global B2B Sales Pipeline Analytics
 
-## ** 🖼️ Dashboard Preview **
+##**🖼️ Dashboard Preview**
 Page 1 – Sales Pipeline Overview
 
 <img width="1325" height="734" alt="Screenshot 2026-03-11 092109" src="https://github.com/user-attachments/assets/b77c21f2-1e64-4584-929e-cbcae9d67e7b" />
@@ -238,7 +238,13 @@ Data Model
 <img width="928" height="672" alt="Screenshot 2026-03-11 160112" src="https://github.com/user-attachments/assets/3e507d57-1560-4a91-bc4c-342e9df1f3bc" />
 
 
-## ** 🙌 Acknowledgements **
+##**🙌 Acknowledgements**
 
 Special thanks to FP20 Analytics and ZoomCharts for organizing this challenge and providing the opportunity to explore sales pipeline analytics using advanced Power BI visualizations.# sales_pipeline_Analytics_Dashboard_PBI
 This dashboard was created as my submission for the FP20 Analytics Challenge 35 and ZoomCharts Mini Challenge.
+
+##**👤 Author**
+#**Aravind Teja Bastipadu**
+
+Designed and built using Power BI & ZoomCharts
+2026
